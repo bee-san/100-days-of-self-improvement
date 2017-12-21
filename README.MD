@@ -1,0 +1,2 @@
+# 100 Days of Self Improvment
+I've always had trouble sticking to habits, and self-improvement isn't my thing; despite me reading constantly about it. I've decided to take it upon myself to create this GitHub repo where I will be documenting my self improvement. If you wish to take part, simply fork this repo and use fil out the "what do I want to achieve part". I shall be using the hashtag #100DaysOfSelfImprovement for this project.
